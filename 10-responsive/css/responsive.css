@@ -20,7 +20,6 @@
     background-color: cornflowerblue;
     display: flex;
     flex-direction: column;
-    -ms-flex-align: start;
     padding: 15px;
     gap: 15px;
 }
